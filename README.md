@@ -1,7 +1,7 @@
 # IAIP — Indian Premier League Analysis & Insights Project
 
 > Exploratory Data Analysis on the Indian Premier League (IPL) dataset using Python.  
-> Task 2 | EDA on Sports Data | Tool: Python (pandas, matplotlib, seaborn)
+> EDA on Sports Data | Tool: Python (pandas, matplotlib, seaborn)
 
 ---
 
@@ -126,7 +126,7 @@ python ipl_eda.py
 
 ## Author
 
-**Your Name**  
+**Yamini Puppala**  
 Data Science Intern | Task 2 — EDA on Sports Data
 
 ---
